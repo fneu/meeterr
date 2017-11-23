@@ -1,0 +1,13 @@
+[Core]
+name = meeterr
+module = meeterr
+
+[Documentation]
+description = organize a meeting with errbot
+
+[Python]
+version = 3
+
+[Errbot]
+min = 5.1.3
+
